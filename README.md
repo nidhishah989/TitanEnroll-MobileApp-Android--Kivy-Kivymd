@@ -8,9 +8,9 @@
 
 ------------------------------------------------
 #### Project Detail
-
 The goal of this project is to apply Agile-Scrum to software process. It's about a mobile application for students of the CSUF collage that lets them access information about the classes they are taking in future and allows them to enroll. This is a mobile application made with Kivy and Kivymd. The database (locally stored) is MSSQL. There are five UI pages - MainPage, SelectionPage, CourseCatalogPage, LoginPage, EnrollmentPage.
-------------------------------------------------------
+
+--------------------------------------------------------
 #### PROJECT REQUIRE MODULES/libraries 
 
 * kivy
@@ -32,10 +32,11 @@ The goal of this project is to apply Agile-Scrum to software process. It's about
  ```
 
 --------------------------------------------------------------------
-##### Project details - Course Catalog Service
+#### Project details - Course Catalog Service
  The students can view lists of courses and the details of each course, such as unit number, description, etc.
+ 
 --------------------------------------------------------------------
-##### Project details - Enrollment Service
+#### Project details - Enrollment Service
 1. The Enrollment page is only accessible to authorized students.
 2. Students can login before accessing the Enrollment page.
 3. The Enrollment page displays the student's registered classes.
