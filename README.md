@@ -11,9 +11,6 @@
 The goal of this project is to apply Agile-Scrum to software process. It's about a mobile application for students of the CSUF collage that lets them access information about the classes they are taking in future and allows them to enroll. This is a mobile application made with Kivy and Kivymd. The database (locally stored) is MSSQL. There are five UI pages - MainPage, SelectionPage, CourseCatalogPage, LoginPage, EnrollmentPage.
 
 --------------------------------------------------------
-## video
-https://github.com/nidhishah989/TitanEnroll-MobileApp-Android--Kivy-Kivymd/blob/master/Recorded%20with%20FlexClip%20Screen%20Recorder.webm
---------------------------------------------------------
 #### PROJECT REQUIRE MODULES/libraries 
 
 * kivy
