@@ -5,7 +5,9 @@
 #### GOAL (PURPOSE)
 * Developing a mobile app and practicing the Agile Scrum software development process are integral parts of this project. 
 * This app allows for two core functions, the first is showing a course catalog and the second is allowing enrollment in classes.
-
+ -----------------------------------------------------------
+#### DEMO:
+https://github.com/nidhishah989/TitanEnroll-MobileApp-Android--Kivy-Kivymd/assets/69876607/0f0fa739-68f5-40b5-af89-c4de8157a571
 ------------------------------------------------
 #### Project Detail
 The goal of this project is to apply Agile-Scrum to software process. It's about a mobile application for students of the CSUF collage that lets them access information about the classes they are taking in future and allows them to enroll. This is a mobile application made with Kivy and Kivymd. The database (locally stored) is MSSQL. There are five UI pages - MainPage, SelectionPage, CourseCatalogPage, LoginPage, EnrollmentPage.
@@ -35,7 +37,7 @@ The goal of this project is to apply Agile-Scrum to software process. It's about
 #### Project details - Course Catalog Service
  The students can view lists of courses and the details of each course, such as unit number, description, etc.
  
---------------------------------------------------------------------
+-----------------------------------------------------------------
 #### Project details - Enrollment Service
 1. The Enrollment page is only accessible to authorized students.
 2. Students can login before accessing the Enrollment page.
