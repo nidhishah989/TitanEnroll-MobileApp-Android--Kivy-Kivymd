@@ -1,6 +1,6 @@
 # TitanEnrollApp
 ### Project: TITANENROLLAPP- MOBILEAPP- ANDROID APP(KIVY)
-
+This app is developed using kivy/kivymd with MSSQL database. This app allows for two core functions, the first is showing a course catalog and the second is allowing enrollment in classes.
 --------------------------------------------------------
 #### GOAL (PURPOSE)
 * Developing a mobile app and practicing the Agile Scrum software development process are integral parts of this project. 
